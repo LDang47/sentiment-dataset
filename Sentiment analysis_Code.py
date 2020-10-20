@@ -2,19 +2,6 @@
 # coding: utf-8
 
 # In[1]:
-
-
-# [Linh, Dang]
-# [20195426]
-# [MMA]
-# [Winter 2021]
-# [MMA 865]
-# [16 October 2020]
-
-
-# Answer to Question [2]
-
-
 # ## IMPORT LIBRARIES AND SET SYSTEM OPTIONS
 
 # In[1]:
